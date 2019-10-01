@@ -1,0 +1,7 @@
+C:\Users\home\source\repos\DbParser\DbParser\bin\Debug\DbParser.exe.config
+C:\Users\home\source\repos\DbParser\DbParser\bin\Debug\DbParser.exe
+C:\Users\home\source\repos\DbParser\DbParser\bin\Debug\DbParser.pdb
+C:\Users\home\source\repos\DbParser\DbParser\obj\Debug\DbParser.csprojAssemblyReference.cache
+C:\Users\home\source\repos\DbParser\DbParser\obj\Debug\DbParser.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\DbParser\DbParser\obj\Debug\DbParser.exe
+C:\Users\home\source\repos\DbParser\DbParser\obj\Debug\DbParser.pdb
