@@ -72,7 +72,7 @@ namespace DbParser
                     if(i == entity.PropertyName.Count - 1)
                     {
                         entity.PropertyType[i] = entity.PropertyType[i].Substring(0, entity.PropertyType[i].Length - 2); // изначально типы данных полей класса 
-                    }                                                                                                    //добавляются с запятой, но после добавления  
+                    }                                                                                                    //добавляются с запятой, но перед добавлением  
                     script += entity.PropertyName[i];                                                                    //последнего поля в скрипт этим методом я удаляю запятую
                     script += entity.PropertyType[i];
                     script += "\n";
